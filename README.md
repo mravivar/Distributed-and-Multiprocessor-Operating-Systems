@@ -1,3 +1,4 @@
-# Distributed-and-Multiprocessor-Operating-Systems
+# Non-preemptive Process Scheduler
 
-This repository contains the projects that are done as part of Distributed and Multiprocessor Operating System course.
+Created routines that will allow a program to run with multiple threads, using non-preemptive
+schedule on most Unix/Linux operating systems, implemented semaphores, and used them to implement readers-writers problem.
